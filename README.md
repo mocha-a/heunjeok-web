@@ -30,13 +30,12 @@
 
 - https://heunjeok.vercel.app/
 
-
 ## 💁‍♀️ 저희가 만들었어요 !
 
 | 이름 | 깃허브 | 주요 위젯 | 해당 |
 | :---:| :---: | :---: | :---: |
 | 소연희 | [yeonhee001](https://github.com/yeonhee001) |  book.dart, detail.dart|  |
-| 안지현 | [mocha-a](https://github.com/mocha-a) | home.dart, search.dart |  |
+| 안지현 | [mocha-a](https://github.com/mocha-a) | home.dart, search.dart | ✔️ |
 
 
 ## 📌 주요 기능
@@ -124,13 +123,18 @@
 | **dothome** | **무료 웹호스팅으로 PHP 서버 배포<br>([heunjeok.dothome.co.kr](http://heunjeok.dothome.co.kr/heunjeok-server/bestseller.php))** |![dothome](https://img.shields.io/badge/dothome-22AEE4?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAYCAYAAADkgu3FAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAAZdEVYdFNvZnR3YXJlAEFkb2JlIEltYWdlUmVhZHlxyWU8AAADqGlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlkPSJXNU0wTXBDZWhpSHpyZVN6TlRjemtjOWQiPz4NCjx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMy1jMDExIDY2LjE0NTY2MSwgMjAxMi8wMi8wNi0xNDo1NjoyNyAgICAgICAgIj4NCgk8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPg0KCQk8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M2IChXaW5kb3dzKSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozNEIyQjQzMjQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozNEIyQjQzMzQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSI+DQoJCQk8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozNEIyQjQzMDQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozNEIyQjQzMTQ5QTMxMUU3OTUyNjg4QjQyMjBFN0JGNSIvPg0KCQk8L3JkZjpEZXNjcmlwdGlvbj4NCgkJPHJkZjpEZXNjcmlwdGlvbiB4bWxuczp0aWZmPSJodHRwOi8vbnMuYWRvYmUuY29tL3RpZmYvMS4wLyI+PHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj48L3JkZjpEZXNjcmlwdGlvbj48L3JkZjpSREY+DQo8L3g6eG1wbWV0YT4NCjw/eHBhY2tldCBlbmQ9J3cnPz7Bo9ixAAACbklEQVRIS52VTaiNURSG3/VdrvzmXib+iyKUEorBRWTMADMDMz9JMlGGkoEkA1EGlJFCiTLASClkJKQYSMlP/kou4nkNzvcd+6zuuTf3ma13vWuts8/e+9vSCAAzgF3ANeAF8An4BpzM3lEBzASOA288BMCV5F9me2qpjQiwHfiQm5cAl8sa2xeA58CSUm+osmD7UERciojpOTcctn9ExEJJd22vz/mOQcBeScdK7X+JiH7bV4Hlpd4eBKySdLxMjpaI6IuIc8D4RitXdCQi2okS279sX7e93/Zm2+cl9WZfYoWkPR0KsDZvdgPwuF5t6d8K3Eja2SFqXwJTVKxoW1nUYPtJRGyqquphqUdElHE3ImK+pI2SVNnukbQ6m2oORMTbJrA9xvYE272S3GntylrVg2ZImpOztu9XVXWriYF5km7bfivpjKSfnRVdWar6r5smaULOSnqQ4qOS1kXE5IiYnHLD0ad8jxJfUjw3xT0pHpZK0kdJ33NC0oIUX0/xsxR3G/xZau1FBTwY4mi+tt3XuGvfTuAisK8+EE2uB3iUe7jV599XHjiVDW6ZDrdNwwDszLUFW0rjQM66Neg3sKOjawLYAHzNtU4Xtiy4mY1umf8Ap4GOPQNmA0eBwVzTABxs/O0bDqyUdC8ixra7FdgerA/A+/pKLI6ISdlX8Mj2QFVVgx0qMMv2l/yrRkP93Hc8E22AE7lgNAAfh3r4pNaQXfXGfwZeAe+AX7nJSAAPuz3lst0LrAEWAf3ARGAKsBQ4AbzPDTPAM2A3MC73bxjxc297uu2Nkgbqr0W/pN/1oXgq6U5E3IuIH7m25C/8PXPCVobe0AAAAABJRU5ErkJggg==&logoColor=white)|
 | **Figma** | **디자인 & UI/UX**|![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) |
 
+## 🧂전체 소스 코드
+
+이 저장소에는 Flutter 웹 빌드 결과물만 포함되어 있습니다.<br>
+프로젝트 전체 소스를 보시려면 아래 링크를 클릭해 주세요 !
+
+- [전체 소스 코드 Repository](https://github.com/mocha-a/heunjeok)
 
 ## 📚 참고 URL
 
 - 기획서 : heunjeok Google Docs
 - 화면 설계 : heunjeok Figma
 - ppt : heunjeok Canva
-
 
 ## 🌠 트러블슈팅 (Troubleshooting)
 
